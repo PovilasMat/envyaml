@@ -1,6 +1,6 @@
 # EnvYAML | Easy configuration file parser for structured data
 
-[![Latest Version](https://badgen.net/pypi/v/envyaml)](https://pypi.python.org/pypi/envyaml/)
+[![Latest Version](https://badgen.net/pypi/v/envyaml)](https://pypi.python.org/pypi/envyaml/)[![conda](https://anaconda.org/conda-forge/envyaml/badges/version.svg)](https://anaconda.org/conda-forge/envyaml)
 [![EnvYaml CI/CD Pipeline](https://github.com/thesimj/envyaml/actions/workflows/main.yml/badge.svg)](https://github.com/thesimj/envyaml/actions/workflows/main.yml)
 [![Coverage Status](https://badgen.net/coveralls/c/github/thesimj/envyaml)](https://coveralls.io/github/thesimj/envyaml?branch=main)
 ![Versions](https://badgen.net/pypi/python/envyaml)
